@@ -1,0 +1,35 @@
+.footer-container {
+  position: fixed;
+  padding: 50px 50px;
+  bottom: 0px;
+  background-color: black;
+  width: 100%;
+  color: white;
+}
+.menu-links-footer {
+  display: flex;
+}
+
+.footer-container .copyright {
+  color: white;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.footer-container .list-inline {
+  text-decoration: none;
+}
+
+.footer-container .social-store {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 50px;
+}
+
+.play-store {
+  display: flex;
+  margin: 0px 20px;
+}
